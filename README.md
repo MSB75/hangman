@@ -24,10 +24,5 @@ In Safari öffnen → Teilen → „Zum Home-Bildschirm“.
 Hinweis: Die optionale Web-Spracherkennung hängt von Browser und Betriebssystem ab und ist nicht in jeder Umgebung offline verfügbar. Die Texteingabe und die iPad-Diktierfunktion bleiben als verlässliche Alternativen erhalten.
 
 
-## Version 1.3
-- Lösungswort bleibt unabhängig von der Länge immer in einer Zeile.
-- Hinterlegte Wörter sind im Wortlisten-Spielmodus nicht sichtbar; angezeigt wird nur die Anzahl.
-- Nach Spielende kann das Lösungswort mit der Systemstimme vorgelesen werden.
-
-- Zwei Schwierigkeitsvarianten: Normal baut Galgen und Figur über elf Fehler auf; Schwer startet mit vorhandenem Galgen und sechs Fehlern.
-- In Normal: 1. Bodenlinie, 2. senkrechter Mast, 3. waagerechter Querbalken, 4. diagonale Stütze, 5. Seil, anschließend die sechs Körperteile.
+## iPad-Icon aktualisieren
+Nach einem Icon-Update muss eine bereits installierte Home-Bildschirm-App einmal gelöscht und anschließend in Safari erneut über „Zum Home-Bildschirm“ installiert werden. iPadOS speichert das alte Home-Bildschirm-Icon unabhängig vom normalen Website-Cache.
